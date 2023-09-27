@@ -1,1 +1,3 @@
-# Web3Mason World
+# Web3Mason
+**🧙 We are creating the Web3 future!**
+
